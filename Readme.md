@@ -1,2 +1,2 @@
-# Old Repo (Archived)
-This repo is intentionally emptied.
+# EcoCast
+Air Quality Index Prediction
